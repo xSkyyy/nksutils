@@ -1,0 +1,11 @@
+**Liveplay terms**
+If you are asked to submit a liveplay for us, here are the terms you must follow in order to gain a successful unrestriction
+
+1. You must play on Nekosu OR Bancho (mutual on bancho must be provided to prove ownership of the account.)
+2. Task manager must be shown before and after the play.
+3. PC startup does not need to be shown unless specified.
+4. You must show AT LEAST your monitor, tablet/mouse area and keyboard if applicable to the gamemode.
+5. **NOT REQUIRED** If you would like to, its advised to show yourself pressing home/del/end to show no menus appear
+6. Score meter type must be set to "Hit error" as shown in the screenshot.
+
+After submitting a liveplay an admin will go through it within 24 hours of submission and a verdict will be decided based on all applicable staffs opinions of the gameplay, if you are confirmed to be a legit player, you will be given the Verified badge which will allow you to skip this process in future.
